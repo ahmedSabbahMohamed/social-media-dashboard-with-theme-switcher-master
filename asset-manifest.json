@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/social-media-dashboard-with-theme-switcher-master/static/css/main.c365f735.css",
+    "main.js": "/social-media-dashboard-with-theme-switcher-master/static/js/main.5edff3b0.js",
+    "static/js/787.36df9eda.chunk.js": "/social-media-dashboard-with-theme-switcher-master/static/js/787.36df9eda.chunk.js",
+    "static/media/icon-instagram.svg": "/social-media-dashboard-with-theme-switcher-master/static/media/icon-instagram.568b5795d56c7d9247f4.svg",
+    "index.html": "/social-media-dashboard-with-theme-switcher-master/index.html",
+    "static/media/icon-twitter.svg": "/social-media-dashboard-with-theme-switcher-master/static/media/icon-twitter.a0c5f64d440de29ad911.svg",
+    "static/media/icon-youtube.svg": "/social-media-dashboard-with-theme-switcher-master/static/media/icon-youtube.cad14335e1f2ede979c6.svg",
+    "static/media/icon-facebook.svg": "/social-media-dashboard-with-theme-switcher-master/static/media/icon-facebook.8deee3e3b5c57f63a1f4.svg",
+    "static/media/icon-down.svg": "/social-media-dashboard-with-theme-switcher-master/static/media/icon-down.0c77426d8f1ab70c4ae6.svg",
+    "static/media/icon-up.svg": "/social-media-dashboard-with-theme-switcher-master/static/media/icon-up.359200b20d83a37cfb26.svg",
+    "main.c365f735.css.map": "/social-media-dashboard-with-theme-switcher-master/static/css/main.c365f735.css.map",
+    "main.5edff3b0.js.map": "/social-media-dashboard-with-theme-switcher-master/static/js/main.5edff3b0.js.map",
+    "787.36df9eda.chunk.js.map": "/social-media-dashboard-with-theme-switcher-master/static/js/787.36df9eda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c365f735.css",
+    "static/js/main.5edff3b0.js"
+  ]
+}
