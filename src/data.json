@@ -1,0 +1,110 @@
+{
+    "trackingFollowers": [
+        {
+            "border": "facebook",
+            "plate": "icon-facebook.svg",
+            "name": "@nathaf",
+            "numOfFollowers": "1987",
+            "arrow": "icon-up.svg",
+            "color": "lime-green",
+            "newFollowers": 12,
+            "followers": "followers"
+        },
+        {
+            "border": "twitter",
+            "plate": "icon-twitter.svg",
+            "name": "@nathaf",
+            "numOfFollowers": "1044",
+            "arrow": "icon-up.svg",
+            "color": "lime-green",
+            "newFollowers": 99,
+            "followers": "followers"
+        },
+        {
+            "border": "instagram",
+            "plate": "icon-instagram.svg",
+            "name": "@realnathanf",
+            "numOfFollowers": "11k",
+            "arrow": "icon-up.svg",
+            "color": "lime-green",
+            "newFollowers": 1099,
+            "followers": "followers"
+        },
+        {
+            "border": "youtube",
+            "plate": "icon-youtube.svg",
+            "name": "nathan F.",
+            "numOfFollowers": "8239",
+            "arrow": "icon-down.svg",
+            "color": "bright-red",
+            "newFollowers": 144,
+            "followers": "subscribers"
+        }
+    ],
+    "trackingActivation":[
+        {
+            "title": "page view",
+            "image": "icon-facebook.svg",
+            "number": 87,
+            "precent": 3,
+            "arrow": "icon-up.svg",
+            "color": "lime-green"
+        },
+        {
+            "title": "likes",
+            "image": "icon-facebook.svg",
+            "number": 52,
+            "precent": 2,
+            "arrow": "icon-down.svg",
+            "color": "bright-red"
+        },
+        {
+            "title": "likes",
+            "image": "icon-instagram.svg",
+            "number": 5462,
+            "precent": 2257,
+            "arrow": "icon-up.svg",
+            "color": "lime-green"
+        },
+        {
+            "title": "profile views",
+            "image": "icon-instagram.svg",
+            "number": "25k",
+            "precent": 1375,
+            "arrow": "icon-up.svg",
+            "color": "lime-green"
+        },
+        {
+            "title": "Retweets",
+            "image": "icon-twitter.svg",
+            "number": 117,
+            "precent": 303,
+            "arrow": "icon-up.svg",
+            "color": "lime-green"
+        },
+        {
+            "title": "Likes",
+            "image": "icon-twitter.svg",
+            "number": 507,
+            "precent": 553,
+            "arrow": "icon-up.svg",
+            "color": "lime-green"
+        },
+        {
+            "title": "Likes",
+            "image": "icon-youtube.svg",
+            "number": 107,
+            "precent": 19,
+            "arrow": "icon-down.svg",
+            "color": "bright-red"
+        },
+        {
+            "title": "Total views",
+            "image": "icon-youtube.svg",
+            "number": 1407,
+            "precent": 12,
+            "arrow": "icon-down.svg",
+            "color": "bright-red"
+        }
+    ]
+}
